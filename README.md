@@ -1,5 +1,5 @@
 # reactNativeEgghead
-get github users info
+get github users info application based on IOS
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
