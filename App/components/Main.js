@@ -53,7 +53,8 @@ class Main extends React.Component {
                 {
                     this.state.loading && <ActivityIndicator
                         animating={true}
-                        size="small"
+                        color= '#ddd'
+                        size="large"
                     />
                 }
                 <Text style={{ color: 'white' }}>Search for user on Github</Text>
